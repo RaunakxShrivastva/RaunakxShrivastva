@@ -75,30 +75,25 @@ motto: "Stay curious, build relentlessly, and future-proof your craft."
 
 ### 🛠️ Languages and Tools
 
-#### 🐍 Python & AI/ML
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi" />
-</a>
+<div align="center">
+  <br/>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,c,java,rust,django,git,github,linux,powershell,bash,vscode&perline=7" alt="Tech Icons" />
+  </a>
 
-#### 🌐 Web Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind" />
-</a>
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Slint-2383E2?style=for-the-badge&logo=slint&logoColor=white" alt="Slint" />
 
-#### 📱 Mobile & Desktop Development
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=android,kotlin,java,qt,cpp" />
-</a>
-
-#### 🗄️ Databases & Cloud
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws" />
-</a>
-
-#### ⚙️ Other Tools & Technologies
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,linux,docker,vscode,neovim,figma" />
-</a>
+  <br/>
+</div>
 
 ---
 
