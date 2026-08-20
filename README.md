@@ -75,24 +75,40 @@ motto: "Stay curious, build relentlessly, and future-proof your craft."
 
 ### 🛠️ Languages and Tools
 
+#### 🐍 Python & Data Science
 <div align="center">
-  <br/>
-  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,c,java,rust,django,git,github,linux,powershell,bash,vscode&perline=7" alt="Tech Icons" />
+    <img align="center" src="https://skillicons.dev/icons?i=py" alt="Python" />
   </a>
+  &nbsp;
+  <img align="center" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  &nbsp;
+  <img align="center" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  &nbsp;
+  <img align="center" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+</div>
 
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Slint-2383E2?style=for-the-badge&logo=slint&logoColor=white" alt="Slint" />
+#### 🌐 Web & Frameworks
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,django" alt="Web Dev" />
+  </a>
+</div>
 
-  <br/>
+#### ⚙️ Core Languages
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,rust" alt="Languages" />
+  </a>
+</div>
+
+#### 🛠️ Environment & Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=linux,powershell,bash,git,github,vscode" alt="Tools" />
+  </a>
+  &nbsp;&nbsp;
+  <img align="center" src="https://img.shields.io/badge/Slint-2383E2?style=for-the-badge&logo=slint&logoColor=white" alt="Slint" />
 </div>
 
 ---
